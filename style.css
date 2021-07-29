@@ -1,0 +1,31 @@
+/* header backgroud color  */
+.bg-color{
+    background-color: #264653;   
+}
+/* custom color for button  */
+.custom-clr{
+    background-color: #E76F51;
+}
+
+/* custom color for text  */
+.custom-txt-clr{
+    color: #E76F51;
+}
+/* image gray scale class  */
+.image-grayscale{
+    filter: grayscale(100%);
+}
+
+/* custom css for button border color  */
+.btn-border-color{
+    border-color: #E76F51;
+    background-color: white;
+}
+/* font awasome */
+.fa-star.filled{
+    color: #E77C40;
+    ;
+}
+.fa-star.empty{
+    color: #AEAEAE;
+}
